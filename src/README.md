@@ -213,6 +213,8 @@ git commit -m "squash listo líder"
 git push 
 ```
 
+<BR>
+
 
 ## <span style="color: pink;">.GITIGNORE</span>
 
