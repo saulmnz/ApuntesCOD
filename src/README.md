@@ -212,7 +212,6 @@ git merge --squash líder
 git commit -m "squash listo líder"
 git push 
 ```
-
 <BR>
 
 

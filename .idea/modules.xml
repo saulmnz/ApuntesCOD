@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/APUNTES.iml" filepath="$PROJECT_DIR$/APUNTES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APUNTES_ASOCIACION/APUNTES_ASOCIACION.iml" filepath="$PROJECT_DIR$/APUNTES_ASOCIACION/APUNTES_ASOCIACION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APUNTES_COCHE/APUNTES_COCHE.iml" filepath="$PROJECT_DIR$/APUNTES_COCHE/APUNTES_COCHE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APUNTES_CONTABANCARIA/APUNTES_CONTABANCARIA.iml" filepath="$PROJECT_DIR$/APUNTES_CONTABANCARIA/APUNTES_CONTABANCARIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APUNTES_INMOBILIARIA/APUNTES_INMOBILIARIA.iml" filepath="$PROJECT_DIR$/APUNTES_INMOBILIARIA/APUNTES_INMOBILIARIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APUNTES_PROGRA_OBJETOS/APUNTES_PROGRA_OBJETOS_EJEMPLO_LIBRO.iml" filepath="$PROJECT_DIR$/APUNTES_PROGRA_OBJETOS/APUNTES_PROGRA_OBJETOS_EJEMPLO_LIBRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APUNTES_STRINGS/APUNTES_STRINGS.iml" filepath="$PROJECT_DIR$/APUNTES_STRINGS/APUNTES_STRINGS.iml" />
     </modules>
   </component>
 </project>
